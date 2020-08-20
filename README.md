@@ -22,8 +22,8 @@ Hi there, I'm **Francisco Antunes** a **FullStack Developer** 🚀 from Brasil, 
 
 **Talking about Personal Stuffs:**
 
-- 👨‍💻 I am passionate about information security and pentest 🔒🔑🔓;
-- 🌱 I'm currently learning web and mobile applications for businesses and enterprises 💰; 
+- 👨‍💻 I am passionate about Information Security and Pentest 🔒🔑🔓;
+- 🌱 I'm currently learning Web and Mobile Applications for Businesses and Enterprises 💰; 
 - 🤔 Web and Mobile Development, Information Security and Pentest, Natural Language Processing;
 - 💼 I’m pursuing a Bachelor's degree in Computer Science;
 - 💬 Ask me about anything, I am happy to help;
