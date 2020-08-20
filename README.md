@@ -42,10 +42,8 @@ Hi there, I'm **Francisco Antunes** a **FullStack Developer** 🚀 from Brasil, 
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=mendaccium&repo=Aplicacao-API-React-Integrados" alt="Aplicacao-API-React-Integrados" />
 </a>
 
-### Recently I'm coding in...
-
-<a href="https://codestats.net/users/mendaccium">
-  <img src='https://codestats-readme.wegfan.cn/history-graph/mendaccium?width=850&height=300&timezone=08:00&history_days=21&max_languages=9&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"]' alt="WEGFan's Code::Stats history graph" />
+<a href="https://github.com/mendaccium">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendaccium&theme=radical&hide=glsl,python" />
 </a>
 
 <br />
@@ -60,6 +58,7 @@ Hi there, I'm **Francisco Antunes** a **FullStack Developer** 🚀 from Brasil, 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
