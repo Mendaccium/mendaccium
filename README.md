@@ -43,7 +43,7 @@ Hi there, I'm **Francisco Antunes** a **FullStack Developer** 🚀 from Brasil, 
 </a>
 
 <a href="https://github.com/mendaccium">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendaccium&theme=radical&hide=glsl,python" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendaccium&theme=dracula&hide=glsl,python" />
 </a>
 
 <br />
