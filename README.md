@@ -30,7 +30,8 @@ Hi there, I'm **Francisco Antunes** a **FullStack Developer** 🚀 from Brasil, 
 - 📫 Please email via antunes.f@acad.ifma.edu.br to reach me.
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1Y22jQ-Sgqa1XLtZ-3s0ObSisKr-k-OHk/view) to get more info.
 
-
+<br />
+<br />
 **Languages and Tools:**  
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
