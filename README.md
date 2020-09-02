@@ -35,11 +35,11 @@ Hi there, I'm **Francisco Antunes** a **FullStack Developer** 🚀 from Brasil, 
 
 ### My latest projects
 
-<a href="https://github.com/Mendaccium/beTheHero">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=mendaccium&repo=beTheHero" alt="beTheHero" />
+<a href="https://github.com/Mendaccium/GitExplorer">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=mendaccium&repo=GitExplorer" alt="GithubExplorer" />
 </a>
-<a href="https://github.com/Mendaccium/aplicacao-api-react-integrados">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=mendaccium&repo=Aplicacao-API-React-Integrados" alt="Aplicacao-API-React-Integrados" />
+<a href="https://github.com/Mendaccium/Go-Finances-Web">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=mendaccium&repo=Go-Finances-Web" alt="Go-Finances-Web" />
 </a>
 
 <a href="https://github.com/mendaccium">
