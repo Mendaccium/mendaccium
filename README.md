@@ -1,72 +1,70 @@
 ### Hey 👋, I'm Francisco
 
-<a href="https://www.linkedin.com/">
-  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.twitter.com/c_antunesfilho">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://www.linkedin.com/in/antunesfilho/">
+  <img align="left" alt="Francisco's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/c_antunesfilho/">
-  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/Mendaccium">
-  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <br />
 <br />
 
-Hi there, I'm **Francisco Antunes** a **FullStack Developer** 🚀 from Brasil, currently, I'm a student of Computer Science at the Federal Institute of Maranhão and JavaScript, ReactJS, Node, React Native at RocketSeat  📱💻,
+Olá! Sou **Francisco Antunes**, Analista de Dados e Coordenador de Secretaria Acadêmica e TI no setor educacional 🎓💻.
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+Sou graduado em Ciência da Computação, pós-graduado em Administração de Banco de Dados e atualmente finalizo minha pós em Análise de Dados e Inteligência Artificial. Atuo com banco de dados, análise de indicadores, automações em Python, visualização de dados com Power BI e criação de dashboards para a gestão acadêmica.
 
-**Talking about Personal Stuffs:**
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300"/>
 
-- 👨‍💻 I am passionate about Information Security and Pentest 🔒🔑🔓;
-- 🌱 I'm currently learning Web and Mobile Applications for Businesses and Enterprises 💰; 
-- 🤔 Web and Mobile Development, Information Security and Pentest, Natural Language Processing;
-- 💼 I’m pursuing a Bachelor's degree in Computer Science;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via antunes.f@acad.ifma.edu.br to reach me.
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1Y22jQ-Sgqa1XLtZ-3s0ObSisKr-k-OHk/view) to get more info.
+---
 
-<br />
-<br />
+**🔍 Áreas de Atuação e Interesse:**
 
-### My latest projects
+- 📊 Business Intelligence e criação de dashboards estratégicos
+- 🐍 Scripts em Python com Pandas, NumPy e Scikit-learn para automação e predição
+- 🧠 Modelagem de dados e análises preditivas no contexto educacional
+- 🗄️ SQL para análise de grandes volumes de dados institucionais
+- 📌 Projetos com foco em ENADE, evasão, formação e integridade de dados acadêmicos
+- 🤖 Automação de fluxos com n8n e integração entre sistemas (TOTVS RM, AVA, Google)
 
-<a href="https://github.com/Mendaccium/GitExplorer">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=mendaccium&repo=GitExplorer" alt="GithubExplorer" />
-</a>
-<a href="https://github.com/Mendaccium/Go-Finances-Web">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=mendaccium&repo=Go-Finances-Web" alt="Go-Finances-Web" />
+---
+
+**📫 Contato:**  
+✉️ franciscocerqantunes@gmail.com
+
+---
+
+### ⚙️ Tecnologias e Ferramentas
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/pandas/pandas.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/powerbi/powerbi.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/streamlit/streamlit.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
+
+---
+
+### 📌 Projetos Recentes
+
+- **📈 Sistema Preditivo de Evasão Acadêmica:** Rede neural para identificar alunos com risco de evasão com base em notas, frequência, dados financeiros e sociais.
+- **🎓 Análise de Alunos Formandos:** Classificação automatizada de formandos com base em SQL, considerando carga horária, atividades complementares, disciplinas pendentes, documentação e ENADE.
+- **📊 Dashboards de Gestão Acadêmica:** Painéis em Power BI e Streamlit para acompanhamento de docentes, turmas e desempenho institucional.
+- **🔎 Validador de Censo da Educação Superior:** Automatização do processo de consistência e conferência de dados para o envio ao INEP.
+
+---
+
+<a href="https://github.com/mendaccium">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendaccium&layout=compact&hide=javascript,glsl&langs_count=8" />
 </a>
 
 <a href="https://github.com/mendaccium">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendaccium&show_icons=true&hide_border=true&hide=glsl,python" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mendaccium&show_icons=true&hide_border=true&count_private=true" />
 </a>
 
-<br />
-<br />
+---
 
-**Languages and Tools:**  
-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/elixir/elixir.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-
-![Mendaccium github stats](https://github-readme-stats.vercel.app/api?username=mendaccium&show_icons=true&hide_border=true)
-
-⭐️ Thanks for the visit!
+⭐️ Obrigado por visitar meu perfil!
